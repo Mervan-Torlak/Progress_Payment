@@ -1,0 +1,5 @@
+1 kum 15000 xyz 0.5
+2 tugla 15000 xyz 1.5
+3 xyzt 4560 xyzt 1.45
+4 cam 100 sau 10
+5 fçndçk 15000 xyztds 20

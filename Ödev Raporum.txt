@@ -1,0 +1,14 @@
+Programalamaya Giriş Proje Görevi Raporu
+b191210099 Mervan Yuşa Torlak 1-A
+1-)Öncelikle ödev pdf'ini gözden geçirdim ve bir text dosyası oluşturup neler yapabileceğimi taslak olarak oraya yazdım.
+2-)urun,proje ve hakedis olmak üzere 3 tane text oluşturdum istenildiği gibi ve bu textlerle ilişkili 3 tane de class oluşturdum.
+3-)Pdf te verdiğiniz hasta örneği ve araştırmalarım sonucu yola çıkarak ürün class ını oluşturdum ilk olarak buraya istediğiniz değerleri (urunNo,marka vb.) ekledim.
+4-)Ürün ekle fonksiyonu yazarak her satırda 1 ürün olacak şekilde ekleme yapıyor, ürün sil adlı fonksiyonu yazarakta numara veya ürün adına göre silme işlemini gerçekleştiriyor.
+5-)Kısacası bütün işlemler için bir fonksiyon yazdım aynı işlemleri isimleri değiştirerek proje kısmına uyguladım temel işlemler aynı olduğu için (ekle sil ara raporla) zorluk çekmedim.
+6-)Proje sil fonksiyonu sadece ayrı olarak farklı çalışıyor çünkü eğer bir proje hakedişse o proje silinemiyor.
+7-)Hakedişi hala tam olarak anlamamış olsam da internetten yaptığım araştırmalar,sizden ve etrafımdan topladığım bilgiler doğrultusunda hakediş yazdım.
+8-)Hakediş class ı açtım ve burada proje numarası ürün numarası ürün birim fiyatı gibi bilgilerde bulunmakta.
+9-)Yazdığım fonksiyon istenilen sıraya göre hakediş bilgilerini istiyor bu bilgiyi hakedişe ekliyor devamında
+10-)Diğer işlemleri de hemen hemen diğer işlemlerle benzer olduğu için aynı şekilde yazıyorum.
+11-)Son olarak switch case kullanarak kullanıcının ne yapmak istediğini istiyoruz ve bir işlem yaptıktan sonra tekrardan ana menüye döndürüyorum.
+12-)Pdf te verdiğiniz örnekler gerçekten çok yardımcı oldu neredeyse tamamını ordan yaptım teşekkür ederim.

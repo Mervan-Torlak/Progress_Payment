@@ -1,0 +1,4 @@
+﻿  Yaz Okulu projem.cpp
+C:\Users\90538\source\repos\Yaz Okulu projem\Yaz Okulu projem.cpp(615,1): warning C4244: '+=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\90538\source\repos\Yaz Okulu projem\Yaz Okulu projem.cpp(656,1): warning C4244: '+=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Yaz Okulu projem.vcxproj -> C:\Users\90538\source\repos\Yaz Okulu projem\Debug\Yaz Okulu projem.exe
